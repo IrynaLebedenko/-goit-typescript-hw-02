@@ -1,0 +1,36 @@
+.header {
+   
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .button {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: rgb(215, 210, 210);
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: aqua;
+  }
+  
+  .input {
+    border: none;
+    padding: 5px 10px;
+    width: 280px;
+    outline: none;
+  }
